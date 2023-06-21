@@ -1,3 +1,7 @@
+## DEMO: https://futurekids.netlify.app/
+- add Gnosis Chiado Testnet RPC to MetaMask
+
+
 
 # Truffle-Tailwind-React Web3 Starter Kit
 Speedily develope your decentralized application with this starter kit for free!
