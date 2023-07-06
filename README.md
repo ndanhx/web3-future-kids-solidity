@@ -17,7 +17,6 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Daltonic/tailwind_truffle_starter_kit <PROJECT NAME>`
 
 ## Step 2. Install dependencies
 ```sh
